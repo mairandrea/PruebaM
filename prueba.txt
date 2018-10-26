@@ -1,0 +1,2 @@
+Elegir el editor de texto por defecto que se utilizará cuando Git necesite que introduzca un
+mensaje. Si no indica nada, Git usa el editor por defecto de tu sistema, que
